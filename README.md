@@ -12,3 +12,6 @@ Java Development Kit (JDK) 8 or later
 
 # Screenshot
 ![](https://github.com/FatemahNur/DigitalClock/blob/master/2024-05-29.png)
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
