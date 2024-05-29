@@ -11,4 +11,4 @@ Resizable Window: Fixed size window that cannot be resized.
 Java Development Kit (JDK) 8 or later
 
 # Screenshot
-![image](https://{url})
+![](https://github.com/FatemahNur/DigitalClock/blob/master/2024-05-29.png)
